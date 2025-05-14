@@ -28,7 +28,7 @@ Se define popularidad con base en la variable `Estimated owners`, que estima cu�
 
 - **Nombre:** Steam Games Dataset  
 - **Fuente:** [Kaggle - Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)  
-- **Observaciones:** ~27,000 videojuegos  
+- **Observaciones:** ~110,000 videojuegos  
 - **Features disponibles:** 39 columnas  
 - **Features utilizadas en el modelo:** al menos 20, con tratamiento específico para cada una  
 - **Features categóricas consideradas:**
